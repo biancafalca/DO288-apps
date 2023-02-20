@@ -1,1 +1,1 @@
-import sys; sys.exit(0)
+print("Hello py")
