@@ -1,2 +1,1 @@
-with open('testpython.txt', 'w') as f:
-    f.write('Hello world')
+import sys; sys.exit(0)
