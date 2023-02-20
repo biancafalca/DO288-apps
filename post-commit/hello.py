@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print("Hello world")
+with open('testpython.txt', 'w') as f:
+    f.write('Hello world')
